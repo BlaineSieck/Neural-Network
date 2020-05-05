@@ -2,6 +2,9 @@ Information Retrieval Final Project README
 Convolutional Neural Network
 Blaine Sieck, Brigham Muench, and Terran King
 
+Contributions:
+We worked together via video chat and screen share to work on the code collaboratively so everyone contributed equally.
+
 Python Version: 3.6
 
 *We ran everything through an anaconda environment but importing these libraries should work as well*
