@@ -5,6 +5,9 @@ Blaine Sieck, Brigham Muench, and Terran King
 Contributions:
 We worked together via video chat and screen share to work on the code collaboratively so everyone contributed equally.
 
+**Important Note**
+- If you have trouble running the program with the instructions below, I have provided a video link to the program running on my computer: https://youtu.be/BsMRyI2cBfA
+
 Python Version: 3.6
 
 *We ran everything through an anaconda environment but importing these libraries should work as well*
