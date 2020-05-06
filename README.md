@@ -1,4 +1,4 @@
-Information Retrieval Final Project README
+**Information Retrieval Final Project README**  
 Convolutional Neural Network
 Blaine Sieck, Brigham Muench, and Terran King
 
